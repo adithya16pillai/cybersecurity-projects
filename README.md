@@ -6,8 +6,3 @@
 3. Configuring IAM Poilcies
 4. Securing AWS S3 Buckets
 5. Monitoring and Logging
-
-## Advnaced
-1. Cloud Security Posture Management
-2. Cloud Automation Project - AWS 
-3. DevSecOps 
