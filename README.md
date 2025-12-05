@@ -1,4 +1,4 @@
-# Cloud Security Projects
+# Cyber Security Projects
 
 ## Basic
 1. Securing AWS EC2 Instances
